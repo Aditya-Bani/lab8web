@@ -1,6 +1,6 @@
 | Nama      | Aditya Bani Isro |
 | ----------- | ----------- |
-| NIM     | 312010448       |
+| NIM     | 312010134       |
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 8
